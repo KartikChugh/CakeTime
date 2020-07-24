@@ -1,3 +1,3 @@
 # CakeTime
 A simple Alexa skill to wish you a happy birthday!
-![cake](cake.png)
+<img src="cake.png" height="25%">
